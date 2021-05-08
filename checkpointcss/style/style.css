@@ -1,0 +1,20 @@
+nav {
+    display: inline;
+}
+body{
+    background-color: antiquewhite;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.country {
+    /* background-color: rgb(192, 125, 185); */
+    color: black;
+    border: 2px solid rgb(255, 255, 255);
+    margin: 20px;
+    padding: 20px;
+    }
+.video {
+    border: 0px  ;
+    margin: 20px;
+    padding: 20px;
+}
